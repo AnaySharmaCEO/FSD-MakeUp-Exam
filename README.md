@@ -211,19 +211,19 @@ src/
 │   └── common/
 │
 ├── pages/
-│   ├── Dashboard.jsx
-│   ├── Movies.jsx
-│   ├── Favorites.jsx
-│   ├── AddMovie.jsx
-│   ├── Settings.jsx
-│   ├── Recommendations.jsx
-│   └── NotFound.jsx
+│   ├── Dashboard.tsx
+│   ├── Movies.tsx
+│   ├── Favorites.tsx
+│   ├── AddMovie.tsx
+│   ├── Settings.tsx
+│   ├── Recommendations.tsx
+│   └── NotFound.tsx
 │
 ├── routes/
-│   └── AppRoutes.jsx
+│   └── AppRoutes.tsx
 │
 ├── context/
-│   └── ThemeContext.jsx
+│   └── ThemeContext.tsx
 │
 ├── data/
 │   └── movies.json
@@ -231,8 +231,8 @@ src/
 ├── utils/
 │   └── constants.js
 │
-├── App.jsx
-├── main.jsx
+├── App.tsx
+├── main.tsx
 └── index.css
 ```
 
@@ -370,29 +370,8 @@ Because rendering 9000+ movies at once causes performance issues and poor UX.
 
 ---
 
-# Final Goal
-
-This project is built to demonstrate:
-
-> “This student understands React deeply.”
-
-and not:
-
-> “This student copied a CRUD project.”
-
-The final application is designed to be:
-
-* professional
-* premium
-* modular
-* scalable
-* responsive
-* intelligent
-* viva-proof
-* high-scoring
-
----
 
 # Author
+Anay Sharma
 
 Built as a professional academic ReactJS project focused on maximum scoring, strong architecture, and portfolio-level presentation.
